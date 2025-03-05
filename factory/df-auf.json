@@ -1,0 +1,9 @@
+{
+	"name": "df-auf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d2f422f6-752a-4255-8f60-43c633545fac",
+		"tenantId": "2800c0a0-70e9-49be-8733-faeaa6aced99"
+	}
+}
